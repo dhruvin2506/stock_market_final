@@ -21,8 +21,10 @@ var/
 *.egg
 
 # Virtual Environment
+venv_tf/
 venv/
-ENV/
+env/
+.env/
 
 # IDE
 .idea/
