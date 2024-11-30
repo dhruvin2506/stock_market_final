@@ -179,5 +179,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Web interface
 
 ## 👥 Contact
-Your Name - [Your Email]
+Dhruvin Patel - dhruvin2506@gmail.com
 Project Link: [https://github.com/dhruvin2506/stock_market_final](https://github.com/dhruvin2506/stock_market_final)
